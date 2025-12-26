@@ -1,0 +1,41 @@
+Here you go — **plain, copy-friendly numbering** ✅
+
+1. Display all columns for the first 10 rows.
+
+2. List all distinct rideable types.
+
+3. Show all trips taken by casual riders.
+
+4. Find all trips that started at a specific station (e.g., Eckhart Park).
+
+5. Count the total number of trips.
+
+6. Count trips by rider type (member vs casual).
+
+7. Count trips by rideable type.
+
+8. Find trips where the start station is different from the end station.
+
+9. Count trips with missing start or end station information.
+
+10. Extract the trip start date for each ride.
+
+11. Count the number of trips per day.
+
+12. Find all trips that occurred in April 2020.
+
+13. Count trips by hour of the day.
+
+14. Calculate trip duration in minutes for each ride.
+
+15. Find the average trip duration.
+
+16. Compare average trip duration between members and casual riders.
+
+17. Find the top 10 most popular start stations.
+
+18. Find the top 5 end stations for casual riders.
+
+19. Rank start stations by total number of trips.
+
+20. Identify the longest trip recorded in the dataset.
