@@ -3,4 +3,4 @@ select e.department_id, e.first_name, e.last_name, m.department_id, m.first_name
 from employees as e 
 inner join employees as m
 on e.department_id = m.department_id
-where e.employee_id <> m.employee_id
+where e.employee_id <> m.employee_id;
